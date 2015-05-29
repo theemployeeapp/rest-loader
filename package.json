@@ -1,0 +1,41 @@
+{
+  "name": "rest-loader",
+  "version": "0.1.0",
+  "description": "The best module ever.",
+  "author": {
+    "name": "frankros",
+    "email": "frankros91@gmail.com"
+  },
+  "repository": "APPrise-Mobile/rest-loader",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "http-loader",
+    ""
+  ],
+  "dependencies": {
+    "lodash": "^3.8.0",
+    "q": "^1.4.0",
+    "request": "^2.55.0",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "jshint-stylish": "^1.0.1",
+    "load-grunt-tasks": "^3.1.0",
+    "mocha": "^2.2.4",
+    "nock": "^2.0.1",
+    "sinon": "^1.14.1",
+    "time-grunt": "^1.1.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
