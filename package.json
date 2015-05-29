@@ -1,6 +1,6 @@
 {
   "name": "rest-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The best module ever.",
   "author": {
     "name": "frankros",
@@ -8,9 +8,6 @@
   },
   "repository": "APPrise-Mobile/rest-loader",
   "license": "MIT",
-  "files": [
-    "index.js"
-  ],
   "keywords": [
     "http-loader",
     ""
